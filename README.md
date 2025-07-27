@@ -102,10 +102,6 @@ MAX_FILE_SIZE=5242880
 - **Action Verbs**: Recommends dynamic language
 - **Quantifiable Achievements**: Encourages metrics and numbers
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Happy job hunting! 🎯** 
